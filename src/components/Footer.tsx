@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="container mx-auto px-6">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10">
           <div>
-            <h3 className="font-serif text-2xl mb-6">ESPACIO</h3>
+            <h3 className="font-serif text-2xl mb-6">INTERIOR</h3>
             <p className="text-white/70 mb-6">
               Creating beautiful spaces that inspire and endure, tailored to your unique vision and lifestyle.
             </p>
@@ -89,7 +89,7 @@ const Footer = () => {
         </div>
         
         <div className="border-t border-white/10 mt-16 pt-8 text-center text-white/50">
-          <p>© {new Date().getFullYear()} ESPACIO. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} INTERIOR. All rights reserved.</p>
         </div>
       </div>
     </footer>

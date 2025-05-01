@@ -27,7 +27,7 @@ const Loader = () => {
         ))}
       </div>
       <div className="absolute mt-32 text-design-light font-serif text-xl tracking-widest">
-        ESPACIO
+        INTERIOR
       </div>
     </div>
   );

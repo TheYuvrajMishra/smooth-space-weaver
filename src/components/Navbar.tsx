@@ -41,7 +41,7 @@ const Navbar = () => {
       >
         <div className="container mx-auto px-6 flex justify-between items-center">
           <Link to="/" className="font-serif text-2xl">
-            ESPACIO
+            INTERIOR
           </Link>
 
           {/* Desktop Menu */}
